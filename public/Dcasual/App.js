@@ -2,7 +2,7 @@ import React from "react"
 import Header from "./Header"
 import Main from "./Main"
 import MemeGenerator from "./MemeGenerator"
-nfnn
+bbdnnd
 
 function App() {
     return(
