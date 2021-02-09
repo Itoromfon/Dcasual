@@ -20,7 +20,7 @@ function Main() {
     }
 
     return(
-        <h1 style={style}>Good {timeOfDay} and welcome to the D-casual</h1>
+        <h1 style={style}>Good {timeOfDay} and welcome to the D-casual thanks</h1>
     )
 }
 
